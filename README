@@ -1,0 +1,2 @@
+This is just a POC for uploading an IO stream to cloud files
+and then reading that IO stream back for validation.
